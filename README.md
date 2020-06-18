@@ -21,6 +21,7 @@
     
 - Visuals folder:
     - includes all the visuals used in the presentation (ie: histogram of user scores, user review sentiment and vector scores, average rating for anime with a ton of reviews, most active users)
+![](Visuals/Screen%20Shot%202020-06-16%20at%208.04.04%20PM.png)
 
 
 ## Task: 
