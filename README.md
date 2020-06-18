@@ -1,7 +1,6 @@
 # Anime_recommendation_system
 
-Purpose:
-
+## Files:
 
 
 - Anime ratings csv/all ratings csv:
@@ -22,3 +21,24 @@ Purpose:
     
 - Visuals folder:
     - includes all the visuals used in the presentation (ie: histogram of user scores, user review sentiment and vector scores, average rating for anime with a ton of reviews, most active users)
+
+
+## Task: 
+Create an Anime Recommendation system based on user ratings and user review text data.
+
+## Purpose: 
+Generate recommendations for people who like anime and want to find something to watch.
+
+## Process:
+
+### Webscraping:
+Gather reviews and ratings for over 1000 anime from myanimelist.net.
+
+### Data Cleaning:
+Clean the NLP data using regex and tokenizer
+
+### Create word vectors and word sentiments:
+Use Spacy and TextBlob to convert the user reviews into a single vector score or sentiment score
+
+### Recommendation System:
+Use all the different rating scores to make different models and gridsearch to tune the models.
