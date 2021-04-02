@@ -1,5 +1,9 @@
 # Anime_recommendation_system
 
+We wanted to create a recommendation engine for different anime using data from the anime review site, myanimelist.net. Instead of just using the reviews of a given anime we also wanted to include their reviews in the generation of the engine. By giving each review a sentimentality score we felt that might give us a better overall representation of what people liked than just a single digit score. In the end we found that both had their benefits and worked fairly well but that review score in general gave us better recommendations (at least for our own tastes) than the sentiment score. 
+
+To accomplish this we used the surprise package for the recommendations as well as Natural Language Processing to be able to give a sentimentality score to the text data.
+
 ## Files:
 
 
