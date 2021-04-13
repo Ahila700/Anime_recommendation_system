@@ -53,3 +53,6 @@ Use Spacy and TextBlob to convert the user reviews into a single vector score or
 
 ### Recommendation System:
 Use all the different rating scores to make different models and gridsearch to tune the models.
+
+## Future Steps
+Some steps we could take to expand on this further would be to just expand the number of reviews we bring in, and the number of animes. It is always going to be more effective to add more data. Another thing we could do would be to put together different seasons of the same anime. One problem we had was that our model would recommend other seasons of an anime that someone liked. Which in the context of what the model was trying to do is actually a good thing but we would hane to add diversity to the predictions.
